@@ -20,7 +20,7 @@
       </listitem>
     </itemizedlist>
     
-    <para>The event object acts as a payload, to propagate state from producer to consumer.
+    <para>The blahblah event object acts as a payload, to propagate state from producer to consumer.
     The event qualifiers act as topic selectors, allowing the consumer to narrow the set of
     events it observes.</para>
     
