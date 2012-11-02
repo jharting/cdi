@@ -8,7 +8,7 @@
         <listitem>
             <para>A well-defined lifecycle for stateful objects bound to 
             <emphasis>lifecycle contexts</emphasis>, where the set of contexts is 
-            extensible</para>
+            extensible blah blah</para>
         </listitem>
         <listitem>
             <para>A sophisticated, typesafe <emphasis>dependency injection</emphasis> 
